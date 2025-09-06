@@ -23,5 +23,6 @@ Technologies used in this project,
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
 
-
-
+## Dataset
+The dataset used for this project is available on Google Drive:  
+[Download Dataset](https://drive.google.com/drive/folders/1ES_q36wMTll1JJGfZ4C9Nwrvo_K4hHwL?usp=drive_link)
