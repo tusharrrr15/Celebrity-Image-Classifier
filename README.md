@@ -1,7 +1,7 @@
 # Celebrity-Image-Classifier
 ![](ui_image.png)
 
-In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
+In this data science and machine learning project, we classify famous personalities. We restrict classification to only 5 people,
 1) Anushka Sen
 2) Lionel Messi
 3) Maria Sarapova
