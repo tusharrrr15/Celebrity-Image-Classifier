@@ -1,5 +1,5 @@
 # Celebrity-Image-Classifier
-![](ui_snapshot.png)
+![](ui_image.png)
 
 In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1) Anushka Sen
